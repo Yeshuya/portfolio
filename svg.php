@@ -74,7 +74,7 @@
     <div class="dropdown">
         <button class="dropbtn">CLE</button>
         <div class="dropdown-content">
-            <a href="index.php?page=svg&module=lt61"> Learning Task 6.1 </a>	
+            <a href="index.php?page=svg&module=mid"> Floom </a>	
         </div>
     </div>
 </div>
@@ -104,6 +104,9 @@
                     </p>
                     <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
                 <?php
+	    break;
+            case 'mid':
+		require_once('Web_Anim/Panganiban_Joshua.php');
             break;
 
         }
