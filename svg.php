@@ -71,6 +71,12 @@
             <a href="index.php?page=svg&module=lt62"> Learning Task 6.2 </a>	
         </div>
     </div>
+    <div class="dropdown">
+        <button class="dropbtn">CLE</button>
+        <div class="dropdown-content">
+            <a href="index.php?page=svg&module=lt61"> Learning Task 6.1 </a>	
+        </div>
+    </div>
 </div>
 
 <div class="content_svg">
