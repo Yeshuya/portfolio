@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st11{fill:#6FCFF0;}
+</style>
+<g id="Logo">
+	<polygon id="F" points="780.2,677.9 780.2,611.7 822.6,611.7 822.6,621.9 790.8,621.9 790.8,641.4 815.8,641.4 815.8,650.3 
+		791.2,650.3 791.2,677.9 	"/>
+	<polygon id="L" points="844.3,612.2 844.3,678.8 885.4,678.8 885.4,669 853.6,669 853.6,612.2 	"/>
+	<g id="O_1_">
+		<ellipse id="XMLID_120_" cx="933.8" cy="645.5" rx="34.8" ry="35.9"/>
+		<ellipse id="XMLID_117_" class="st11" cx="933.8" cy="645.5" rx="25" ry="25.7"/>
+	</g>
+	<g id="O">
+		<ellipse id="black" cx="1018.3" cy="611.7" rx="34.8" ry="35.9"/>
+		<ellipse id="white" class="st11" cx="1018.3" cy="611.7" rx="25" ry="25.7"/>
+	</g>
+	<polygon id="M" points="1071.8,678.6 1071.8,612.4 1081.6,612.4 1107.1,654 1131.2,612.4 1141,612.4 1141,678.6 1130.8,678.6 
+		1130.8,633 1110.2,666.1 1103.3,666.1 1081,632.1 1081,678.6 	"/>
+</g>
+</svg>

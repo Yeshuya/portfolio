@@ -1,0 +1,163 @@
+<svg id="butterfly" xmlns="http://www.w3.org/2000/svg" 
+xmlns:xlink="http://www.w3.org/1999/xlink" 
+viewBox="0 0 1920 1080" 
+shape-rendering="geometricPrecision" 
+text-rendering="geometricPrecision">
+<style>
+	<![CDATA[
+		#butterfly-butterfly_to {
+			animation: butterfly-butterfly_to__to 7000ms linear infinite normal forwards
+		}
+		
+		@keyframes butterfly-butterfly_to__to { 
+			0% {transform: translate(722.899994px,784.275238px)} 
+			28.571429% {transform: translate(1030.837730px,652.301922px)} 
+			57.142857% {transform: translate(1392.764550px,830.265938px)} 
+			81.428571% {transform: translate(1716.699051px,670.298283px)} 
+			100% {transform: translate(1974.646895px,746.282919px)} 
+		}
+		
+		#butterfly-wing1_to {
+			animation: butterfly-wing1_to__to 7000ms linear infinite normal forwards
+		}
+		
+		@keyframes butterfly-wing1_to__to { 
+			0% {transform: translate(721.849976px,779.525208px)} 
+			7.142857% {transform: translate(747.523510px,777.429266px)} 
+			14.285714% {transform: translate(721.849976px,779.525208px)} 
+			21.428571% {transform: translate(721.849976px,779.525208px)} 
+			28.571429% {transform: translate(747.523510px,777.429266px)} 
+			35.714286% {transform: translate(721.849976px,779.525208px)} 
+			42.857143% {transform: translate(747.523510px,777.429266px)} 
+			50% {transform: translate(721.849976px,779.525208px)} 
+			57.142857% {transform: translate(747.523510px,777.429266px)} 
+			64.285714% {transform: translate(721.849976px,779.525208px)} 
+			71.428571% {transform: translate(747.523510px,777.429266px)} 
+			78.571429% {transform: translate(721.849976px,779.525208px)} 
+			85.714286% {transform: translate(747.523510px,777.429266px)} 
+			92.857143% {transform: translate(721.849976px,779.525208px)} 
+			100% {transform: translate(721.849976px,779.525208px)} 
+		}
+		
+		#butterfly-wing1_ts {
+			animation: butterfly-wing1_ts__ts 7000ms linear infinite normal forwards
+		}
+		
+		@keyframes butterfly-wing1_ts__ts { 
+			0% {transform: scale(1,1)} 
+			7.142857% {transform: scale(0,1)} 
+			14.285714% {transform: scale(1,1)} 
+			21.428571% {transform: scale(1,1)} 
+			28.571429% {transform: scale(0,1)} 
+			35.714286% {transform: scale(1,1)} 
+			42.857143% {transform: scale(0,1)} 
+			50% {transform: scale(1,1)} 
+			57.142857% {transform: scale(0,1)} 
+			64.285714% {transform: scale(1,1)} 
+			71.428571% {transform: scale(0,1)} 
+			78.571429% {transform: scale(1,1)} 
+			85.714286% {transform: scale(0,1)} 
+			92.857143% {transform: scale(1,1)} 
+			100% {transform: scale(1,1)} 
+		}
+		
+		#butterfly-wing2_to {
+			animation: butterfly-wing2_to__to 7000ms linear infinite normal forwards
+		}
+		
+		@keyframes butterfly-wing2_to__to { 
+			0% {transform: translate(717.100006px,787.956970px)} 
+			2.857143% {transform: translate(717.100006px,787.956970px)} 
+			10% {transform: translate(746.893439px,784.357717px)} 
+			17.142857% {transform: translate(717.100006px,787.956970px)} 
+			24.285714% {transform: translate(717.100006px,787.956970px)} 
+			31.428571% {transform: translate(746.893439px,784.357717px)} 
+			38.571429% {transform: translate(717.100006px,787.956970px)} 
+			45.714286% {transform: translate(746.893439px,784.357717px)} 
+			52.857143% {transform: translate(717.100006px,787.956970px)} 
+			60% {transform: translate(746.893439px,784.357717px)} 
+			67.142857% {transform: translate(717.100006px,787.956970px)} 
+			74.285714% {transform: translate(746.893439px,784.357717px)} 
+			81.428571% {transform: translate(717.100006px,787.956970px)} 
+			88.571429% {transform: translate(746.893439px,784.357717px)} 
+			95.714286% {transform: translate(717.100006px,787.956970px)} 
+			100% {transform: translate(717.100006px,787.956970px)} 
+		}
+		
+		#butterfly-wing2_ts {
+			animation: butterfly-wing2_ts__ts 7000ms linear infinite normal forwards
+		}
+		
+		@keyframes butterfly-wing2_ts__ts { 
+			0% {transform: scale(1,1)} 2.857143% {transform: scale(1,1)} 
+			10% {transform: scale(0,1)} 17.142857% {transform: scale(1,1)} 
+			24.285714% {transform: scale(1,1)} 
+			31.428571% {transform: scale(0,1)} 
+			38.571429% {transform: scale(1,1)} 
+			45.714286% {transform: scale(0,1)} 
+			52.857143% {transform: scale(1,1)} 
+			60% {transform: scale(0,1)} 
+			67.142857% {transform: scale(1,1)} 
+			74.285714% {transform: scale(0,1)} 
+			81.428571% {transform: scale(1,1)} 
+			88.571429% {transform: scale(0,1)} 
+			95.714286% {transform: scale(1,1)} 
+			100% {transform: scale(1,1)} 
+		}
+	]]>
+</style>
+<g id="butterfly-butterfly_to" transform="translate(722.899994,784.275238)">
+	<g id="butterfly-butterfly" transform="translate(-722.899994,-784.275238)">
+		<g id="butterfly-wing1_to" transform="translate(721.849976,779.525208)">
+			<g id="butterfly-wing1_ts" transform="scale(1,1)">
+				<path id="butterfly-wing1" 
+				d="M749.100000,777.500000C749.100000,777.500000,740.300000,755.900000,730,751.400000C719.700000,
+				746.900000,710.500000,746,703.100000,748.200000C695.700000,750.400000,694.600000,752.500000,694.600000,
+				752.500000C694.600000,752.500000,700.800000,753.200000,705.500000,762.500000C705.500000,762.500000,
+				708.800000,778.400000,714.900000,781.700000C714.900000,781.700000,718,784.300000,720.600000,
+				784.200000C723.200000,784.100000,719.100000,788.800000,719.100000,788.800000C719.100000,788.800000,
+				714.900000,792.400000,716.400000,798.900000C718.100000,805.400000,723.100000,811.600000,725.900000,
+				812C725.900000,812,725.200000,805.500000,729.500000,803.600000C733.800000,801.700000,743.900000,788.900000,
+				745.400000,786.900000C746.900000,784.900000,747,785.600000,747,785.600000L749.100000,777.500000Z" 
+				transform="translate(-721.849976,-779.525208)" fill="rgb(213,145,179)" stroke="none" stroke-width="1"/>
+			</g>
+		</g>
+
+		<g id="butterfly-wing2_to" transform="translate(717.100006,787.956970)">
+			<g id="butterfly-wing2_ts" transform="scale(1,1)">
+				<path id="butterfly-wing2" 
+				d="M748,781.600000C748,781.600000,735.300000,759.900000,723.700000,756.600000C712,753.300000,702,753.900000,
+				694.500000,757.300000C686.900000,760.800000,686.200000,763.200000,686.200000,763.200000C686.200000,763.200000,
+				692.900000,762.900000,699.300000,772.100000C699.300000,772.100000,705.300000,788.600000,712.300000,791.100000C712.300000,
+				791.100000,716.100000,793.400000,718.800000,792.800000C721.500000,792.200000,717.900000,797.900000,717.900000,
+				797.900000C717.900000,797.900000,714,802.300000,716.700000,809C719.400000,815.700000,725.700000,821.400000,728.800000,
+				821.500000C728.800000,821.500000,727,814.700000,731.400000,811.900000C735.800000,809.100000,744.600000,794.100000,
+				745.900000,791.600000C747.200000,789.100000,747.500000,789.900000,747.500000,789.900000L748,781.600000Z" 
+				transform="translate(-717.100006,-787.956970)" fill="rgb(240,160,197)" stroke="none" stroke-width="1"/>
+			</g>
+		</g>
+
+		<ellipse id="butterfly-body" rx="8.500000" ry="2.500000" 
+		transform="matrix(0.00546699999999 1 -1 0.00546699999999 749.34696979999342 784.34406809999302)" 
+		fill="rgb(128,57,142)" stroke="none" stroke-width="1"/>
+
+		<ellipse id="butterfly-head" rx="2.500000" ry="2.400000" 
+		transform="matrix(-0.76710000000000 -0.64150000000000 0.64150000000000 -0.76710000000000 749.44125999999960 773.98450000000003)" 
+		fill="rgb(128,57,142)" stroke="none" stroke-width="1"/>
+
+		<path id="butterfly-antennahead_3_" d="M750.700000,772.200000C750.700000,772.200000,748.800000,764.800000,758.300000,
+		761.200000L758.300000,761.500000C758.300000,761.500000,750,763.700000,750.800000,772.200000L750.700000,772.200000Z" 
+		fill="rgb(128,57,142)" stroke="none" stroke-width="1"/>
+
+		<circle id="butterfly-antennahead_2_" r="0.900000" transform="matrix(1 0 0 1 758.70000000000005 761.50000000000000)" 
+		fill="rgb(128,57,142)" stroke="none" stroke-width="1"/>
+
+		<path id="butterfly-antennahead_1_" d="M749.200000,774.100000C749.200000,774.100000,747.300000,766.700000,756.800000,
+		763.100000L756.800000,763.400000C756.800000,763.400000,748.500000,765.600000,749.300000,774.100000L749.200000,774.100000Z" 
+		fill="rgb(128,57,142)" stroke="none" stroke-width="1"/>
+
+		<circle id="butterfly-antennahead" r="0.900000" transform="matrix(1 0 0 1 757.20000000000005 763.39999999999998)" 
+		fill="rgb(128,57,142)" stroke="none" stroke-width="1"/>
+	</g>
+</g>
+</svg>
