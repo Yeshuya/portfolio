@@ -74,7 +74,7 @@
     <div class="dropdown">
         <button class="dropbtn">CLE</button>
         <div class="dropdown-content">
-            <a href="index.php?page=svg&module=mid"> Floom </a>	
+            <a href="Web Anim/Panganiban_Joshua.php"> Floom </a>	
         </div>
     </div>
 </div>
@@ -105,10 +105,6 @@
                     <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
                 <?php
 	    break;
-            case 'mid':
-		require_once('Web Anim/Panganiban_Joshua.php');
-            break;
-
         }
     ?>
 </div>
