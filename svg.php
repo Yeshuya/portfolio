@@ -106,7 +106,7 @@
                 <?php
 	    break;
             case 'mid':
-		require_once('Web_Anim/Panganiban_Joshua.php');
+		require_once('Web Anim/Panganiban_Joshua.php');
             break;
 
         }
