@@ -89,13 +89,14 @@ $module = (isset($_GET['module']) && $_GET['module'] != '') ? $_GET['module'] : 
 			<?php
 				switch ($page)
 				{
-                    case 'css':
-                        include ('css.php');
-						break;
-                    case 'svg':
-                        include ('svg.php');
-						break;
-					case 'canvas':
+				    case 'css':
+					include ('css.php');
+					break;
+				    case 'svg':
+					include ('svg.php');
+					break;
+				    case 'canvas':
+					include ('canvas.php');
 						break;
 				}
 			?>	
